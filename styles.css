@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.colo {
+	color:#3b99e0;
+}
+.summary {
+	border-top:#3b99e0;
+	 background-color : #f7fbff;
+}
